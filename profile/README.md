@@ -4,7 +4,7 @@
 
 ## TL;DR
 - Please submit all new data requests using this [Asana Form](https://form.asana.com/?k=ASlQaWxI4pbzgnr--u9goA&d=30849970456832)
-- No "urgent" requests.  Please submit an inquiry *at least 2 weeks* before you actually need the data.
+- Try to avoid sending us "urgent" requests.  Please submit an inquiry *at least 2 weeks* before you actually need the data.
 - Intended for ad-hoc requests only.  See [Reporting](https://app.asana.com/1/30849970456832/project/1210755604814083/list/1210775927949128) for the reports and services we provided on a recurring basis.
 - Data Science reviews new requests every Wednesday.
 - Depending on when in the week you submit your request, you can expect to wait up to 1 additional week before Data Science will see and evaluate your request.  Please plan accordingly.
@@ -35,7 +35,7 @@
 > Every Wednesday, typically in the afternoon (Eastern)
 
 ### So what happens if I submit something on a Thursday and need it for the following Tuesday?
-> Likely nothing.   We understand that "emergencies" happen and will do our best to work with you when something urgent and unexpected falls on your plate, but we will generally be unable to accommodate requests with deadlines less than two weeks from the date of submission.
+> We understand that "emergencies" happen and will do our best to work with you when something urgent and unexpected falls on your plate, but we will generally be unable to accommodate requests with deadlines less than two weeks from the date of submission.
 
 ### What happens in these weekly request review meetings?
 > These review (a.k.a "backlog grooming") meetings are when data science:
